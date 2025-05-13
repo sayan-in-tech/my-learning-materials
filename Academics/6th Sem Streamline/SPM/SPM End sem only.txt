@@ -1,0 +1,5 @@
+Software Product Management: Importance, ISO Standards-9126,
+Software Process Management: Importance, ISO 9001:2000, CMM, Test Quality Plan (TQM)
+Risk Management: Risk Assessment, Risk Leverage(problems), Risk types, PERT(problems), Monte-Carlo(Theory), Critical Chain Method.
+Activity Network Diagrams, Change Management
+Unit 5: Importance, Use and Comparative analysis between Primavera and redmine
